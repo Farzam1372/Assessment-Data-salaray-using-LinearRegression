@@ -3,7 +3,7 @@ Sure, estimatinAA data salary using linear regression involves several steps. Le
 # 1. Data Importing and Cleaning
 Data Sourcing: Find a dataset that includes information related to salaries and various factors that might influence them, such as education level, years of experience, location, etc.
 Data Importing: Load the dataset into your chosen data analysis environment (like Python with libraries such as Pandas).
-Data Cleaning**: Handle missing values, remove duplicates, handle outliers, and ensure the data is in a format suitable for analysis.
+Data Cleaning: Handle missing values, remove duplicates, handle outliers, and ensure the data is in a format suitable for analysis.
 
 # 2. Exploratory Data Analysis (EDA)
 Statistical Summary: Get a summary of the data.
